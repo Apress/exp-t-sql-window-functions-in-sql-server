@@ -1,0 +1,9 @@
+C:\CustomAggregate\CustomAggregate\CustomAggregate\obj\Debug\CustomAggregate.dll
+C:\CustomAggregate\CustomAggregate\CustomAggregate\obj\Debug\CustomAggregate.pdb
+C:\CustomAggregate\CustomAggregate\CustomAggregate\bin\Debug\CustomAggregate.dacpac
+C:\CustomAggregate\CustomAggregate\CustomAggregate\bin\Debug\CustomAggregate.dll
+C:\CustomAggregate\CustomAggregate\CustomAggregate\bin\Debug\CustomAggregate.pdb
+C:\CustomAggregate\CustomAggregate\CustomAggregate\obj\Debug\Model.xml
+C:\CustomAggregate\CustomAggregate\CustomAggregate\obj\Debug\refactor.xml
+C:\CustomAggregate\CustomAggregate\CustomAggregate\obj\Debug\postdeploy.sql
+C:\CustomAggregate\CustomAggregate\CustomAggregate\obj\Debug\predeploy.sql
